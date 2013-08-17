@@ -1,0 +1,9 @@
+{
+	"Name" : "Node-Streamer",
+	"Discription" : "Interactive questions solving along with video streaming.",
+	"version" : "0.0.1",
+	"dependencies" : {
+		"express" : "3.0.0",
+		"binaryjs" : "0.1.8"
+	}
+}
